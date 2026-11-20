@@ -1,1 +1,26 @@
 /* Add CSS Styling */
+
+.no1, .no3, .no5 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #ffb6c1;
+}
+
+#no2 {
+    font-size: 32px;
+    color: rgb(0, 0, 255);
+}
+
+.no3 {
+    font-size: 24px;
+
+}
+
+#no4 {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.no5 {
+    font-weight: bold;
+}
